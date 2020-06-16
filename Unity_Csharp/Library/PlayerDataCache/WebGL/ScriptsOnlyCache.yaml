@@ -722,4 +722,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7B2C\u4E03\u7AE0 \u7DF4\u7FD2.unity"
-  playerPath: C:/Unity/Unity_Lion_CSharp/Unity_lfSwitchLoop
+  playerPath: C:/Unity/Unity_Lion_CSharp/Unity_0001
