@@ -12,8 +12,6 @@ public class Far : Ground
     public float cd;
     [Header("死亡時間"), Range(3, 7)]
     public float deadTime;
-    [Header("傷害直"), Range(10, 500)]
-    public float damage;
 
     /// <summary>
     /// 目標物件

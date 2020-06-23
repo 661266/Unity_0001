@@ -487,7 +487,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: bcb1c073bf57dc4204ce4619edc80c49
+      Hash: 2fc059e35d43abe8b2c63ff6d858b67b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Far
@@ -722,4 +722,8 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7B2C\u4E03\u7AE0 \u7DF4\u7FD2.unity"
-  playerPath: C:/Unity/Unity_Lion_CSharp/Unity_lfSwitchLoop
+<<<<<<< HEAD
+  playerPath: C:/Users/409-01/Desktop/Web
+=======
+  playerPath: C:/Unity/Unity_Lion_CSharp/Unity_0001
+>>>>>>> 9c5a51a861b7f815c158317702667bf80f397bfa
